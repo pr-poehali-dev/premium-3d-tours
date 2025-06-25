@@ -9,7 +9,7 @@ const Hero = () => {
           <h1 className="heading-serif text-5xl md:text-7xl lg:text-8xl font-light tracking-tight">
             Премиальные
             <br />
-            <span className="text-gold">3D-туры</span>
+            <span className="text-gold">3D-VR туры</span>
           </h1>
           <p className="text-xl md:text-2xl text-premium max-w-3xl mx-auto">
             Создаю виртуальные туры премиум-класса для бутик-отелей,
