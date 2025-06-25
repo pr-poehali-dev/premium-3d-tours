@@ -7,13 +7,13 @@ const Hero = () => {
       <div className="container mx-auto text-center space-y-8 animate-fade-in">
         <div className="space-y-4">
           <h1 className="heading-serif text-5xl md:text-7xl lg:text-8xl font-light tracking-tight">
-            Премиальные
+            Ваш интерьер достоин
             <br />
-            <span className="text-gold">3D-VR туры</span>
+            <span className="text-gold">идеальной подачи</span>
           </h1>
           <p className="text-xl md:text-2xl text-premium max-w-3xl mx-auto">
-            Создаю виртуальные туры премиум-класса для бутик-отелей,
-            дизайнерских апартаментов и элитной недвижимости
+            Премиальные 3D-туры Matterport для объектов, где важна атмосфера и
+            статус
           </p>
         </div>
 
